@@ -31,8 +31,10 @@
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
 
-# User 1: Mayank Chaudhary
+# User 1: Aditya
 
+![Screenshot 2023-03-30 214930](https://user-images.githubusercontent.com/102986406/228901102-0b15c361-2591-4d83-b919-d4129e7207c3.png)
 
-# User 2: Harry
+# User 2: Aman
+![Screenshot 2023-03-30 215040](https://user-images.githubusercontent.com/102986406/228901126-4dd1533c-0640-4161-9ec3-8ea7e6fb9ae6.png)
 
